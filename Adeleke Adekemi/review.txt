@@ -1,8 +1,9 @@
 HTML ASSIGNMENT
 
-Use the div tag for every section
+* Use the div tag for every section
 
 SIGN UP
 
-Change your font to Raleway
-When on mobile view, the white container touches the edges of the screen, add some padding to the container
+* Change your font to Raleway
+* Container should be aligned to the center both horizontally and vertically. This could be achieved using align items and justify contents respectively
+* When on mobile view, the white container touches the edges of the screen, add some padding to the container
