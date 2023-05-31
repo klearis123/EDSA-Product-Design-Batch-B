@@ -1,14 +1,13 @@
 body {
     background-color: #344a72;
-    font-family: sans-serif;
+    font-family: raleway;
 }
 .container {
     width: 360px;
     height: 600px;
     margin: auto;
     background-color: white;
-    border-radius: 3px;
-    margin-top: 100px;
+    border-radius: 3px; 
 }
 .container h1{
     text-align: center;
