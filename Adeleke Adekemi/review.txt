@@ -1,0 +1,8 @@
+HTML ASSIGNMENT
+
+Use the div tag for every section
+
+SIGN UP
+
+Change your font to Raleway
+When on mobile view, the white container touches the edges of the screen, add some padding to the container
